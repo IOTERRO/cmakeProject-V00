@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\omart\Desktop\Learning\c++_leaning\Interface_test_v00\projects with my own cmake file\first project\Project1\Project1\modules\moteur\dcMotor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\omart\Desktop\Learning\c++_leaning\Interface_test_v00\projects with my own cmake file\first project\Project1\Project1\modules\moteur\moteur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\omart\Desktop\Learning\c++_leaning\Interface_test_v00\projects with my own cmake file\first project\Project1\Project1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{09B79919-2B66-3A60-8BD2-2D16EDA985CA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
